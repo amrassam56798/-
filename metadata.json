@@ -1,0 +1,9 @@
+{
+  "name": "Copy of يوم ٩ نوفمبرCopy of Copy of Copy of Copy of AI High School Assistant (مساعد الثانوية العامة الذكي)",
+  "description": "An intelligent assistant for high school students, helping with studying, time management, lesson summarization, interactive quizzes, and mental well-being throughout the school year.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
